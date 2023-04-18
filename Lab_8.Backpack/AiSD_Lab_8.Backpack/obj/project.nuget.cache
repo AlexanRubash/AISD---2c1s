@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "eZ3vjW8zi4p1vgCfkmSBu4KxLl50eM8af+aW1conu5zmXEdgqsWuOUw1wcdZT0j4CMROsRC6kwmlxh4PSvzUaA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rubas\\Desktop\\Универ\\2-1\\aisd\\Lab_8.Backpack\\AiSD_Lab_8.Backpack\\AiSD_Lab_8.Backpack.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rubas\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.26\\microsoft.netcore.app.host.win-x64.3.1.26.nupkg.sha512",
+    "C:\\Users\\rubas\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\rubas\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\rubas\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

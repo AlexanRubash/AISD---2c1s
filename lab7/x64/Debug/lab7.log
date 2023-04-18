@@ -1,0 +1,4 @@
+﻿  lab7.cpp
+C:\Users\rubas\Desktop\Универ\2-1\aisd\lab7\lab7.cpp(10,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\rubas\Desktop\Универ\2-1\aisd\lab7\lab7.cpp(138,74): warning C4267: аргумент: преобразование из "size_t" в "char"; возможна потеря данных
+  lab7.vcxproj -> C:\Users\rubas\Desktop\Универ\2-1\aisd\lab7\x64\Debug\lab7.exe
